@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Benvinguts to OpenShift</title>
+  <title>Hola a tothom</title>
 
 
 <style>
@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Benvingut al CakePHP application a OpenShift</h1>
+            <h1>Benvinguts a l'espectacle de la Champions</h1>
           </hgroup>
 
 
