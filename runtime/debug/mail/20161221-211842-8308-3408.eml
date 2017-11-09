@@ -1,0 +1,23 @@
+Message-ID: <9d7693fe712194028e9be2447363d3a9@localhost>
+Date: Wed, 21 Dec 2016 21:18:42 +0000
+Subject: Message subject
+From: from@domain.com
+To: bc.correu@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1482355122_903b424a7111780a97194c9244314e00_=_"
+
+
+--_=_swift_v4_1482355122_903b424a7111780a97194c9244314e00_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1482355122_903b424a7111780a97194c9244314e00_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1482355122_903b424a7111780a97194c9244314e00_=_--
